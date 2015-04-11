@@ -1,6 +1,6 @@
 # Parse Foreign Foreign Data Wrapper for PostgreSQL
 
-This data wrapper allows you to access your Parse object as a PostgreSQL foreign table.
+This data wrapper allows you to access your [Parse](http://parse.com/) object as a PostgreSQL foreign table.
 
 ## Installation
 
