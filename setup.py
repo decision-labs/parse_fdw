@@ -5,7 +5,6 @@ setup(
   version='0.1.0',
   author='Kashif Rasul',
   author_email='kashif.rasul@gmail.com',
-  license='Postgresql',
   packages=['parse_fdw'],
   url='https://github.com/spacialdb/parse_fdw',
   install_requires=['multicorn', 'parse_rest'],
